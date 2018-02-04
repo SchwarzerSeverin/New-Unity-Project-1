@@ -1,0 +1,142 @@
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\nunit.framework.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UI.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.VR.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityFbxExporterEditor.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityFbxPrefab.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityFbxSdk.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.Cecil.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UI.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\nunit.framework.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.VR.xml
+E:\Google Drive\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Google Drive\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Google Drive\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+E:\Google Drive\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Google Drive\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\nunit.framework.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UI.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.VR.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityFbxExporterEditor.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityFbxPrefab.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityFbxSdk.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.Cecil.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UI.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\nunit.framework.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.VR.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Dokumente\FH\3_Semester\Game\New Unity Project 1\obj\Debug\Assembly-CSharp-firstpass.pdb
